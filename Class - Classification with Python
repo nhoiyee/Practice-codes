@@ -1,0 +1,7 @@
+Classification with Python
+
+In this notebook we try to practice all the classification algorithms that we learned in this course.
+
+We load a dataset using Pandas library, and apply the following algorithms, and find the best one for this specific dataset by accuracy evaluation methods.
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ccda2952-6fb2-4135-9bbe-5b6cd3e6fcc2/view?access_token=675d6b78efc5b8231773f70f1d6328ebe80b8db5e2c67238f1cff2ec00ad853e
